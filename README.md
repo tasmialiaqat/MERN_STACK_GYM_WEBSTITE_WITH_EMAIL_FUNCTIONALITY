@@ -4,11 +4,10 @@ This is a comprehensive Gym Management Application built using the MERN stack. I
 
 ## 📸 Screenshots
 
->
-<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/cf72c003-0786-4cf4-935e-17950ff33519" />
-<img width="1889" height="880" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/ad158a6f-620a-484a-9b71-7a53e7a32e40" />
-<img width="1890" height="881" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/8653377c-1c46-40a8-9bdd-61f5c721394b" />
+><img width="1883" height="872" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/a6084c70-435a-429c-b11f-5799320248b4" />
 <img width="1891" height="881" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/c0bb25cb-e910-404e-bd37-acc1486bc801" />
+<img width="1890" height="881" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/8653377c-1c46-40a8-9bdd-61f5c721394b" />
+<img width="1889" height="880" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/ad158a6f-620a-484a-9b71-7a53e7a32e40" />
 
 ## 🚀 Core Features
 
